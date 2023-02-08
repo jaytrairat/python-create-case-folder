@@ -33,6 +33,8 @@ If the folders are successfully created, the script will output a success messag
 
 If there's an error, the script will output an error message with the exception.
 
+## Example
+
 ## Contributing
 
 Feel free to fork the repository and make any changes or improvements that you'd like to see. If you have any questions or suggestions, please don't hesitate to reach out to jaytrairat@outlook.com.
