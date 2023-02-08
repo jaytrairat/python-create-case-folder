@@ -34,6 +34,7 @@ If the folders are successfully created, the script will output a success messag
 If there's an error, the script will output an error message with the exception.
 
 ## Example
+![https://raw.githubusercontent.com/jaytrairat/python-create-case-folder/main/assets/demo.gif](Example)
 
 ## Contributing
 
