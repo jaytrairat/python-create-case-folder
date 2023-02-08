@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     
 setup(
     name='create-case-folder',
-    version='0.0.3',
+    version='0.0.6',
     description='Create case folder',
     long_description=long_description,
     long_description_content_type="text/markdown",
